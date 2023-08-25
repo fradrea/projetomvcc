@@ -3,8 +3,8 @@
 • Nome do projeto:
  - Avaliadores
  - Leiloeiros
- - Casdastro de Objetos
- - Vendas de Objetos
+ - Casdastro de Produtos
+ - Vendas de Produtos
   
 •Explicação sobre o que se trata o projeto:
 -Um projeto de leilões é uma iniciativa que visa organizar e executar eventos,
